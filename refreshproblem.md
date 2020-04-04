@@ -1,4 +1,4 @@
-iis url rewriter yüklendikten sonra
+after installed iis url rewrite
 
 ````
 
