@@ -1,3 +1,6 @@
+# .env.developement
+REACT_APP_API_ENDPOINT = "https://development-api.endpoint.com/"
+
 ````
 {
   "name": "cra-env-cmd",
