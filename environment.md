@@ -4,6 +4,11 @@ REACT_APP_API_ENDPOINT = "https://development-api.endpoint.com/"
 ````
 
 ````
+# .env.production
+REACT_APP_API_ENDPOINT = "https://www.saglik.endpoint.com/"
+````
+
+````
 {
   "name": "cra-env-cmd",
   "version": "0.1.0",
