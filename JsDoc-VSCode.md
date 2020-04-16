@@ -29,6 +29,8 @@ export default class Home extends Component {
   }
 
   Kaydet1() {
+  
+  // burda intellisense aktif hale gelir
     let x=personel.kilo;
   }
 
