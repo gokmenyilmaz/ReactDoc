@@ -20,7 +20,7 @@ export const personel = {
   kilo: 20,
 };
 
-//intellisense devreye girer//
+//intellisense devreye girer burda name ve age hatalı property//
 /** @type {Person} person */
 export const person = {
   name: 'Joe', 
