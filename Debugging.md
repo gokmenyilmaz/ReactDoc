@@ -37,8 +37,8 @@ Bu yöntemde yeni bir chrome yeni bir form olarak açılır.
 Tanımlı kullanıcı vs sıfırlanır.
 
 ### 2.Attach to url with files served
+Chrome için masaustüne kısayol oluştur ve kısayolun yolunu aşadaki şekilde güncelle.
 "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222
-bu şekilde girilir.
 
 Bu kısayoldan chrome açıldıktan sonra debug çalıştırılır.
 Bu yöntemde var olan browser üzerinden 9222 portu üzerinden debug yapılır
