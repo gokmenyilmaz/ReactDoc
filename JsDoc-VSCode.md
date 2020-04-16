@@ -6,15 +6,28 @@ VsCode ayarlardan checkJs:true yapılır
 
 ````
 Enums.js
+
 /**
- * @typedef {Object} x
+ * @typedef {Object} Person
  * @prop {string} ad
  * @prop {number} kilo
  */
+ 
+
+/** @type {Person} person */
 export const personel = {
   ad: "summer",
   kilo: 20,
 };
+
+
+/** @type {Person} person */
+export const person = {
+  name: 'Joe', 
+  age: 32
+}
+
+
 ````
 
 ````
