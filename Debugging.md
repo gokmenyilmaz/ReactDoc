@@ -29,14 +29,14 @@ vsconde lunch json dosyasına
   ]
 }
 ````
----- url nin server portu olmasına dikkat et. Varsayılan olarakr  8080 gelir onu değiştir
+#### url nin server portu olmasına dikkat et. Varsayılan olarakr  8080 gelir onu değiştir
 
--- 1.Yöntem debug menusunden start yapılarak çalıştırılır.
+### 1.Yöntem debug menusunden start yapılarak çalıştırılır.
 brekpointler çalışır.
 Bu yöntemde yeni bir chrome yeni bir form olarak açılır.
 Tanımlı kullanıcı vs sıfırlanır.
 
--- 2.Chrome için kısayol oluşturulur.
+### 2.Chrome için kısayol oluşturulur.
 "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222
 bu şekilde girilir.
 
