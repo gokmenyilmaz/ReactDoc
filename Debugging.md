@@ -31,7 +31,7 @@ vsconde lunch json dosyasına
 ````
 #### url nin server portu olmasına dikkat et. Varsayılan olarakr  8080 gelir onu değiştir
 
-### 1.Yöntem debug menusunden start yapılarak çalıştırılır.
+### 1.Debug menusunden start yapılarak çalıştırılır.
 brekpointler çalışır.
 Bu yöntemde yeni bir chrome yeni bir form olarak açılır.
 Tanımlı kullanıcı vs sıfırlanır.
