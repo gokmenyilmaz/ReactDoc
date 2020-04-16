@@ -20,7 +20,7 @@ export const personel = {
   kilo: 20,
 };
 
-
+//intellisense devreye girer//
 /** @type {Person} person */
 export const person = {
   name: 'Joe', 
