@@ -32,7 +32,6 @@ vsconde lunch json dosyasına
 #### url nin server portu olmasına dikkat et. Varsayılan olarakr  8080 gelir onu değiştir
 
 ### 1.Launch Chrome against localhost
-brekpointler çalışır.
 Bu yöntemde yeni bir chrome yeni bir form olarak açılır.
 Tanımlı kullanıcı vs sıfırlanır.
 
