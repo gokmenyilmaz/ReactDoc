@@ -2,6 +2,9 @@ https://medium.com/@trukrs/type-safe-javascript-with-jsdoc-7a2a63209b76
 VsCode ayarlardan checkJs:true yapılır
 ````
 "javascript.implicitProjectConfig.checkJs": true
+yada
+sayfa başına @ts-check
+
 ````
 
 ````
