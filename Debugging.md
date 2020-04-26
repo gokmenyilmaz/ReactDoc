@@ -1,3 +1,4 @@
+//xxxxxxxxxxxxxx
 Vs code ile iki yöntem bulunmakta.
 
 Extensionlardan "debugger for chrome" yüklenir
